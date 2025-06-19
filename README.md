@@ -48,9 +48,10 @@ Atualmente em transição de carreira para a área de tecnologia, onde posso uni
 
 ### 📫 Contato:
 
-- [LinkedIn](https://www.linkedin.com/in/vithorroder)
-- Email: **vithorroder@gmail.com**
-- GitHub: [github.com/vithorroder](https://github.com/vithorroder)
+- [LinkedIn](https://www.linkedin.com/in/vithor-roder-1700a217a/)
+- Email: **vithorleaoroder@gmail.com**
+- GitHub: [github.com/vithorroder](https://github.com/VithorRoder)
+- Site: [DevPortfolio](https://vithoroderdev.vercel.app/) 
 
 ---
 
