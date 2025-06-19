@@ -55,4 +55,3 @@ Atualmente em transição de carreira para a área de tecnologia, onde posso uni
 
 ---
 
-> “Quem corre sozinho pode até chegar mais rápido. Mas quem corre junto vai mais longe.” 🚀
