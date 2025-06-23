@@ -19,7 +19,7 @@ Atualmente em transição de carreira para a área de tecnologia, onde posso uni
 ### 📌 Projetos que desenvolvi:
 
 - **🔧 Sistema de Orçamentos e Estoque (Java + PostgreSQL)**  
-  Criado para uso interno na gráfica da minha família — controla orçamentos, ordens de serviço e estoque.
+  Criado para uso interno na gráfica onde trabalho atualmente — controla orçamentos, ordens de serviço e estoque.
 
 - **🌐 Site institucional (HTML/CSS/JS)**  
   Projeto quase finalizado para divulgação online da Gráfica Phoenix.
