@@ -1,57 +1,55 @@
-### Olá! Eu sou o Vithor Roder 👋
+### Hello! I'm Vithor Roder 👋
 
-🎯 **Nutricionista de formação, desenvolvedor por paixão.**  
-Atualmente em transição de carreira para a área de tecnologia, onde posso unir minha criatividade, curiosidade e foco em resolver problemas reais através do código.
-
----
-
-### 💻 Tecnologias e Ferramentas que uso:
-
-- 🧠 Java (Swing, JDBC)
-- 🛢️ PostgreSQL
-- 🎮 Unity + C# (Photon PUN 2)
-- 🌐 HTML | CSS | JavaScript
-- 🧰 Git e GitHub para versionamento
-- 🖥️ VSCode, NetBeans, IntelliJ
+🎯 **Brazilian full-stack developer, 26 years old, passionate about building smart and creative solutions.**  
+Currently transitioning into tech, I'm driven by curiosity and a strong desire to solve real-world problems through code — combining logical thinking with hands-on experience.
 
 ---
 
-### 📌 Projetos que desenvolvi:
+### 💻 Technologies and Tools I Use:
 
-- **🔧 Sistema de Orçamentos e Estoque (Java + PostgreSQL)**  
-  Criado para uso interno na gráfica onde trabalho atualmente — controla orçamentos, ordens de serviço e estoque.
-
-- **🌐 Site institucional (HTML/CSS/JS)**  
-  Projeto quase finalizado para divulgação online da Gráfica Phoenix.
-
-- **🎮 Jogo multiplayer 2D point-and-shoot (Unity)**  
-  Com suporte a mobile e desktop, animações em pixel art e integração de rede usando Photon.
+- 🧠 Java (Swing, JDBC)  
+- 🛢️ PostgreSQL  
+- 🎮 Unity + C# (Photon PUN 2)  
+- 🌐 HTML | CSS | JavaScript  
+- 🧰 Git and GitHub for version control  
+- 🖥️ VSCode, NetBeans, IntelliJ  
 
 ---
 
-### 📚 Estudando agora:
+### 📌 Projects I’ve Built:
+
+- **🔧 Budgeting and Inventory Management System (Java + PostgreSQL)**  
+  Developed for internal use at the family-owned print shop — handles quotes, service orders, and stock control.
+
+- **🌐 Institutional Website (HTML/CSS/JS)**  
+  A nearly finished website designed to promote Gráfica Phoenix online.
+
+- **🎮 2D Point-and-Shoot Multiplayer Game (Unity)**  
+  Supports both mobile and desktop platforms, with pixel art animations and online networking using Photon.
+
+---
+
+### 📚 Currently Learning:
 
 - Spring Boot  
 - React  
-- Boas práticas com Clean Code  
-- Estrutura de dados e algoritmos
+- Clean Code best practices  
+- Data structures and algorithms  
 
 ---
 
-### 📍 Sobre mim:
+### 📍 About Me:
 
-- 🧠 Formado em Nutrição (IBMR - 2017 a 2023)
-- 📍 Rio de Janeiro, RJ
-- 📦 Atualmente atuando na **Gráfica Phoenix**, como gestor de tecnologia e finanças
-
----
-
-### 📫 Contato:
-
-- [LinkedIn](https://www.linkedin.com/in/vithor-roder-1700a217a/)
-- Email: **vithorleaoroder@gmail.com**
-- GitHub: [github.com/vithorroder](https://github.com/VithorRoder)
-- Site: [DevPortfolio](https://vithoroderdev.vercel.app/) 
+- 🇧🇷 Brazilian, based in Rio de Janeiro  
+- 👨‍💻 Self-taught developer with hands-on experience in real projects  
+- 🧩 Always exploring new technologies and improving my skills  
+- 🧾 Currently working at **Gráfica Phoenix**, managing technology and finance operations  
 
 ---
 
+### 📫 Contact:
+
+- [LinkedIn](https://www.linkedin.com/in/vithor-roder-1700a217a/)  
+- Email: **vithorleaoroder@gmail.com**  
+- GitHub: [github.com/vithorroder](https://github.com/VithorRoder)  
+- Website: [DevPortfolio](https://vithoroderdev.vercel.app/)  
