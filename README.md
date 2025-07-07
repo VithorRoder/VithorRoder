@@ -19,10 +19,10 @@ Currently transitioning into tech, I'm driven by curiosity and a strong desire t
 ### 📌 Projects I’ve Built:
 
 - **🔧 Budgeting and Inventory Management System (Java + PostgreSQL)**  
-  Developed for internal use at the family-owned print shop — handles quotes, service orders, and stock control.
+  Developed for internal use at Gráfica Phoenix — manages quotes, service orders, and inventory control.
 
 - **🌐 Institutional Website (HTML/CSS/JS)**  
-  A nearly finished website designed to promote Gráfica Phoenix online.
+  Completed website built to promote Gráfica Phoenix online, the company where I currently work.
 
 - **🎮 2D Point-and-Shoot Multiplayer Game (Unity)**  
   Supports both mobile and desktop platforms, with pixel art animations and online networking using Photon.
