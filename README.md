@@ -1,4 +1,10 @@
-### Hello! I'm Vithor Roder 👋
+# Hello! I'm Vithor Roder 👋
+
+🌐 [🇧🇷 Português](./README.pt.md) | [🇺🇸 English](./README.md)
+
+---
+
+### 🇺🇸 English Version
 
 🎯 **Brazilian full-stack developer, 26 years old, passionate about building smart and creative solutions.**  
 Currently transitioning into tech, I'm driven by curiosity and a strong desire to solve real-world problems through code — combining logical thinking with hands-on experience.
@@ -38,6 +44,12 @@ Currently transitioning into tech, I'm driven by curiosity and a strong desire t
 
 ---
 
+### 🎓 Education:
+
+- **Associate Degree in Systems Analysis and Development (ADS)** — IBMR Barra da Tijuca (Aug 2025 – Dec 2027, expected)  
+
+---
+
 ### 📍 About Me:
 
 - 🇧🇷 Brazilian, based in Rio de Janeiro  
@@ -53,3 +65,4 @@ Currently transitioning into tech, I'm driven by curiosity and a strong desire t
 - Email: **vithorleaoroder@gmail.com**  
 - GitHub: [github.com/vithorroder](https://github.com/VithorRoder)  
 - Website: [DevPortfolio](https://vithoroderdev.vercel.app/)  
+
