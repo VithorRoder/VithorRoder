@@ -14,33 +14,33 @@
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/VithorRoder/VithorRoder/main/github-mark-white.svg" alt="GitHub" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
 </p>
 
