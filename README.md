@@ -1,6 +1,6 @@
 🌐 [🇧🇷 Português](./README.pt.md) | [🇺🇸 English](./README.md)
 
-# Olá! Eu sou Vithor Roder 👋
+# Oi! tudo bem? Eu sou o Vithor 👋
 
 ---
 
@@ -61,10 +61,10 @@
 ### 🔹 Game Dev  
 - Unity + C#  
 
-### 🔹 Version Control & Collaboration  
+### 🔹 Controle de versão e Colaboração  
 - Git & GitHub  
 
-### 🔹 Tools  
+### 🔹 Ferramentas  
 - VSCode | IntelliJ IDEA | NetBeans  
 - Docker  
 
@@ -85,14 +85,6 @@
   Backend profissional construído com Spring Boot, autenticação via JWT, migrações de banco com Flyway e PostgreSQL.  
   Cliente em Java Swing consumindo a API, garantindo separação de responsabilidades e acesso seguro ao banco.
 
----
-
-### 📚 Atualmente Estudando:
-
-- Spring Boot  
-- React  
-- Boas práticas de Clean Code  
-- Estruturas de dados e algoritmos  
 
 ---
 
