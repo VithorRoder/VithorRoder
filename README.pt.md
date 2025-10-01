@@ -1,13 +1,11 @@
-# Olá! Eu sou Vithor Roder 👋
-
 🌐 [🇧🇷 Português](./README.pt.md) | [🇺🇸 English](./README.md)
+
+# Olá! Eu sou Vithor Roder 👋
 
 ---
 
-### 🇧🇷 Versão em Português
+**Desenvolvedor Full-Stack brasileiro, 26 anos, apaixonado por criar soluções digitais escaláveis e criativas. Uno raciocínio lógico, capacidade de resolução de problemas e experiência prática para entregar aplicações eficientes que geram impacto real.**
 
-**Desenvolvedor full-stack brasileiro, 26 anos, apaixonado por criar soluções inteligentes e criativas.**  
-Atualmente em transição para a área de tecnologia, sou movido pela curiosidade e pelo desejo de resolver problemas reais através do código — unindo pensamento lógico com experiência prática.
 
 ---
 
