@@ -1,41 +1,75 @@
 # Olá! Eu sou Vithor Roder 👋
 
-🌐 [🇺🇸 English](./README.md) | [🇧🇷 Português](./README.pt.md)
+🌐 [🇧🇷 Português](./README.pt.md) | [🇺🇸 English](./README.md)
 
 ---
 
 ### 🇧🇷 Versão em Português
 
-🎯 **Desenvolvedor full‑stack brasileiro, 26 anos, apaixonado por construir soluções inteligentes e criativas.**  
-Em transição para tecnologia, sou movido por curiosidade e pela vontade de resolver problemas reais com código — unindo raciocínio lógico e prática.
+**Desenvolvedor full-stack brasileiro, 26 anos, apaixonado por criar soluções inteligentes e criativas.**  
+Atualmente em transição para a área de tecnologia, sou movido pela curiosidade e pelo desejo de resolver problemas reais através do código — unindo pensamento lógico com experiência prática.
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Tecnologias e Ferramentas que Utilizo:
 
-- 🧠 Java (Swing, JDBC)  
-- 🛢️ PostgreSQL  
-- 🎮 Unity + C# (Photon PUN 2)  
-- 🌐 HTML | CSS | JavaScript  
-- 🧰 Git e GitHub para controle de versão  
-- 🖥️ VSCode, NetBeans, IntelliJ  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+</p>
+
+### 🔹 Backend  
+- Java  
+- Spring Boot | Spring Security | JPA/Hibernate  
+- Maven  
+- PostgreSQL  
+
+### 🔹 Frontend  
+- HTML5 | CSS3 | JavaScript  
+
+### 🔹 Game Dev  
+- Unity + C#  
+
+### 🔹 Versionamento & Colaboração  
+- Git & GitHub  
+
+### 🔹 Ferramentas  
+- VSCode | IntelliJ IDEA | NetBeans  
+- Docker  
 
 ---
 
-### 📌 Projetos que Construí
+### 📌 Projetos que Desenvolvi:
 
-- **🔧 Sistema de Orçamentos e Controle de Estoque (Java + PostgreSQL)**  
-  Desenvolvido para uso interno na Gráfica Phoenix — gerencia orçamentos, ordens de serviço e controle de estoque.
+- **🔧 Sistema de Orçamento e Controle de Estoque (Java + PostgreSQL)**  
+  Criado para uso interno na **Gráfica Phoenix** — gerencia orçamentos, ordens de serviço e controle de estoque.
 
-- **🌐 Website Institucional (HTML/CSS/JS)**  
-  Site para promover a Gráfica Phoenix online, empresa onde trabalho atualmente.
+- **🌐 Site Institucional (HTML/CSS/JS)**  
+  Website desenvolvido para promover a presença online da Gráfica Phoenix, empresa onde atuo atualmente.
 
-- **🎮 Jogo 2D Point‑and‑Shoot Multiplayer (Unity)**  
-  Suporte para mobile e desktop, com animações em pixel art e rede usando Photon.
+- **🎮 Jogo 2D Point-and-Shoot Multiplayer (Unity)**  
+  Compatível com plataformas mobile e desktop, com animações em pixel art e rede online utilizando Photon.
+
+- **⚙️ API Corporativa + Cliente Swing (Spring Boot, JWT, Flyway, PostgreSQL)**  
+  Backend profissional construído com Spring Boot, autenticação via JWT, migrações de banco com Flyway e PostgreSQL.  
+  Cliente em Java Swing consumindo a API, garantindo separação de responsabilidades e acesso seguro ao banco.
 
 ---
 
-### 📚 Atualmente Estudando
+### 📚 Atualmente Estudando:
 
 - Spring Boot  
 - React  
@@ -44,24 +78,24 @@ Em transição para tecnologia, sou movido por curiosidade e pela vontade de res
 
 ---
 
-### 🎓 Educação
+### 🎓 Formação Acadêmica:
 
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)** — IBMR Barra da Tijuca *(ago/2025 – dez/2027, previsto)*  
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)** — IBMR Barra da Tijuca (Ago 2025 – Dez 2027, previsto)  
 
 ---
 
-### 📍 Sobre Mim
+### 📍 Sobre Mim:
 
 - 🇧🇷 Brasileiro, baseado no Rio de Janeiro  
-- 👨‍💻 Autodidata, com experiência prática em projetos reais  
-- 🧩 Sempre explorando novas tecnologias e aprimorando habilidades  
-- 🧾 Atualmente na **Gráfica Phoenix**, cuidando de operações de tecnologia e finanças  
+- 👨‍💻 Desenvolvedor autodidata com experiência prática em projetos reais  
+- 🧩 Sempre explorando novas tecnologias e aprimorando minhas habilidades  
+- 🧾 Atualmente atuando na **Gráfica Phoenix**, gerenciando operações de tecnologia e finanças  
 
 ---
 
-### 📫 Contato
+### 📫 Contato:
 
 - [LinkedIn](https://www.linkedin.com/in/vithor-roder-1700a217a/)  
-- E‑mail: **vithorleaoroder@gmail.com**  
-- GitHub: [github.com/VithorRoder](https://github.com/VithorRoder)  
-- Website: [DevPortfolio](https://vithoroderdev.vercel.app/)
+- Email: **vithorleaoroder@gmail.com**  
+- GitHub: [github.com/vithorroder](https://github.com/VithorRoder)  
+- Website: [DevPortfolio](https://vithoroderdev.vercel.app/)  
