@@ -1,13 +1,11 @@
-# Hello! I'm Vithor Roder 👋
-
 🌐 [🇧🇷 Português](./README.pt.md) | [🇺🇸 English](./README.md)
+
+# Hello! I'm Vithor Roder 👋
 
 ---
 
-### 🇺🇸 English Version
+**Brazilian Full-Stack Developer, 26 years old, passionate about creating scalable and creative digital solutions. I combine logical thinking, problem-solving skills, and hands-on experience to deliver efficient applications that generate real impact.**
 
-**Brazilian full-stack developer, 26 years old, passionate about building smart and creative solutions.**  
-Currently transitioning into tech, I'm driven by curiosity and a strong desire to solve real-world problems through code — combining logical thinking with hands-on experience.
 
 ---
 
@@ -66,15 +64,6 @@ Currently transitioning into tech, I'm driven by curiosity and a strong desire t
 - **⚙️ Enterprise API + Swing Client (Spring Boot, JWT, Flyway, PostgreSQL)**  
   Professional backend built with Spring Boot, JWT authentication, Flyway migrations, and PostgreSQL.  
   Java Swing client consuming the API, ensuring separation of concerns and secure database access.
-
----
-
-### 📚 Currently Learning:
-
-- Spring Boot  
-- React  
-- Clean Code best practices  
-- Data structures and algorithms  
 
 ---
 
