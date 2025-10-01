@@ -45,21 +45,26 @@
 </p>
 
 ### 🔹 Backend  
-- Java  
+- Java
+- JDBC
 - Spring Boot | Spring Security | JPA/Hibernate  
 - Maven  
 - PostgreSQL  
 
-### 🔹 Frontend  
+### 🔹 Frontend Web 
 - HTML5 | CSS3 | JavaScript  
 
+### 🔹 Frontend Desktop
+- Java Swing
+- JavaFX
+  
 ### 🔹 Game Dev  
 - Unity + C#  
 
-### 🔹 Versionamento & Colaboração  
+### 🔹 Version Control & Collaboration  
 - Git & GitHub  
 
-### 🔹 Ferramentas  
+### 🔹 Tools  
 - VSCode | IntelliJ IDEA | NetBeans  
 - Docker  
 
