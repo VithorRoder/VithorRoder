@@ -80,7 +80,7 @@ Currently transitioning into tech, I'm driven by curiosity and a strong desire t
 
 ### 🎓 Education:
 
-- **Associate Degree in Systems Analysis and Development (ADS)** — IBMR Barra da Tijuca (Aug 2025 – Dec 2027, expected)  
+- Associate Degree in Systems Analysis and Development — IBMR Barra da Tijuca (Aug 2025 – Dec 2027, expected)  
 
 ---
 
