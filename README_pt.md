@@ -1,4 +1,4 @@
-🌐 [🇧🇷 Português](./README.md) | [🇺🇸 English](./README_US.md)
+🌐 [🇧🇷 Português](./README_pt.md) | [🇺🇸 English](./README.md)
 
 # Oi! tudo bem? Eu sou o Vithor 👋
 
