@@ -1,4 +1,4 @@
-🌐 [🇧🇷 Português](./README.md) | [🇺🇸 English](./README_US.md)
+🌐 [🇧🇷 Português](./README_pt.md) | [🇺🇸 English](./README.md)
 
 # Hello! I'm Vithor Roder 👋
 
