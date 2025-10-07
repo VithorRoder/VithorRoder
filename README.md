@@ -33,7 +33,7 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/VithorRoder/VithorRoder/main/github-mark-white.svg" alt="GitHub" width="450" height="450"/>
+  <img src="https://raw.githubusercontent.com/VithorRoder/VithorRoder/main/github-mark-white.svg" alt="GitHub" width="45" height="45"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
   &nbsp;
