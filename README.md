@@ -44,12 +44,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
 </p>
 
-### 🔹 Backend                                                   ### 🔹 Frontend Web
-- Java                                                           - HTML5 | CSS3 | JavaScript 
+### 🔹 Backend                                                 
+- Java                                                           
 - JDBC                              
-- Spring Boot | Spring Security | JPA/Hibernate                  ### 🔹 Frontend Desktop            
-- Maven                                                          - Java Swing
-- PostgreSQL                                                     - JavaFX
+- Spring Boot | Spring Security | JPA/Hibernate                         
+- Maven                                                        
+- PostgreSQL                                                    
 
 ### 🔹 Frontend Web 
 - HTML5 | CSS3 | JavaScript  
