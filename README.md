@@ -48,10 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="38" height="38"/>
 </p>
 
-
-
 <div align="center">
-
 <table>
   <tr>
     <td valign="top" width="55%">
@@ -102,8 +99,6 @@
     </td>
   </tr>
 </table>
-
-
 </div>
 
 ---
