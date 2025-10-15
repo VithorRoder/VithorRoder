@@ -42,31 +42,67 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="45" height="45"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="45" height="45"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45"/>
 </p>
 
-### 🔹 Backend                                                 
-- Java                                                           
-- JDBC                              
-- Spring Boot | Spring Security | JPA/Hibernate                         
-- Maven                                                        
-- PostgreSQL                                                    
+<div align="center">
 
-### 🔹 Frontend Web 
-- HTML5 | CSS3 | JavaScript  
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
-### 🔹 Frontend Desktop
-- Java Swing
-- JavaFX
-  
-### 🔹 Game Dev  
+🔹 **Backend**  
+- Java  
+- JDBC  
+- Spring Boot | Spring Security | JPA/Hibernate  
+- Maven  
+- PostgreSQL  
+- RESTful APIs  
+
+🔹 **DevOps & Cloud**  
+- AWS (EC2, S3, RDS)  
+- Docker  
+- Kubernetes  
+- CI/CD (GitHub Actions)  
+- Nginx  
+
+🔹 **Game Dev**  
 - Unity + C#  
 
-### 🔹 Version Control & Collaboration  
+🔹 **Version Control & Collaboration**  
 - Git & GitHub  
 
-### 🔹 Tools  
+    </td>
+    <td valign="top" width="50%">
+
+🔹 **Frontend Web**  
+- HTML5 | CSS3 | JavaScript  
+- Responsive Design  
+- REST API Integration  
+
+🔹 **Frontend Desktop**  
+- Java Swing  
+- JavaFX  
+
+🔹 **Tools & IDEs**  
 - VSCode | IntelliJ IDEA | NetBeans  
-- Docker  
+- Postman | pgAdmin  
+- Docker Desktop  
+
+🔹 **Other Skills**  
+- Object-Oriented Programming (OOP)  
+- Database Design & Optimization  
+- Agile / Scrum Methodologies  
+
+    </td>
+  </tr>
+</table>
+
+
+</div>
 
 ---
 
