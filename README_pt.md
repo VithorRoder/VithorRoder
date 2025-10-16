@@ -47,59 +47,75 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="38" height="38"/>
 </p>
+<br>
 
-<div align="center">
-<table>
+<table align="center" style="width: 100%; table-layout: fixed;">
   <tr>
-    <td valign="top" width="55%">
-
-🔹 **Backend**  
-- Java  
-- JDBC  
-- Spring Boot | Spring Security | JPA/Hibernate  
-- Maven  
-- PostgreSQL  
-- APIs RESTful  
-
-🔹 **DevOps e Cloud**  
-- AWS (EC2, S3, RDS)  
-- Docker  
-- Kubernetes  
-- CI/CD (GitHub Actions)  
-- Nginx  
-
-🔹 **Desenvolvimento de Jogos**  
-- Unity + C#  
-
-🔹 **Controle de Versão e Colaboração**  
-- Git & GitHub  
-
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>⚙️ Desenvolvimento Backend</h3>
+      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
+        <span>• Java</span>
+        <span>• Spring (Boot, Security, Data JPA)</span>
+        <span>• APIs RESTful</span>
+        <span>• Maven</span>
+        <span>• JUnit / Mockito</span>
+      </div>
     </td>
-    <td valign="top" width="50%">
-
-🔹 **Frontend Web**  
-- HTML5 | CSS3 | JavaScript  
-- Design Responsivo  
-- Integração com APIs REST  
-
-🔹 **Frontend Desktop**  
-- Java Swing  
-- JavaFX  
-
-🔹 **Ferramentas e IDEs**  
-- VSCode | IntelliJ IDEA | NetBeans  
-- Postman | pgAdmin  
-- Docker Desktop  
-
-🔹 **Outras Competências**  
-- Programação Orientada a Objetos (POO)  
-- Modelagem e Otimização de Banco de Dados  
-- Metodologias Ágeis / Scrum  
-
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>🖥️ Frontend Desktop</h3>
+      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
+        <span>• Java Swing</span>
+        <span>• JavaFX</span>
+        <span>• SWT</span>
+      </div>
+    </td>
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>🌐 Frontend Web</h3>
+      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
+        <span>• HTML</span>
+        <span>• CSS</span>
+        <span>• JavaScript</span>
+        <span>• CSS utilitário (Tailwind / Windi)</span>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>☁️ DevOps & Cloud</h3>
+      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
+        <span>• AWS (EC2, S3, RDS)</span>
+        <span>• Docker</span>
+        <span>• Kubernetes</span>
+        <span>• CI/CD (GitHub Actions)</span>
+        <span>• Nginx</span>
+      </div>
+    </td>
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>🗄️ Bancos de Dados</h3>
+      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
+        <span>• PostgreSQL</span>
+        <span>• JDBC</span>
+        <span>• JPA / Hibernate</span>
+        <span>• Flyway</span>
+        <span>• Modelagem e Otimização de Banco</span>
+      </div>
+    </td>
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>🧩 Ferramentas & Colaboração</h3>
+      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
+        <span>• IntelliJ IDEA</span>
+        <span>• VSCode</span>
+        <span>• NetBeans</span>
+        <span>• Postman</span>
+        <span>• pgAdmin</span>
+        <span>• Docker Desktop</span>
+        <span>• Git & GitHub</span>
+        <span>• Metodologias Ágeis (Scrum)</span>
+      </div>
     </td>
   </tr>
 </table>
-</div>
+
 
 ---
 
