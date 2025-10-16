@@ -74,7 +74,7 @@
       <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
         <span>• HTML</span>
         <span>• CSS</span>
-        <span>• JavaScript</span>
+        <span>• JavaScript</span><br>
         <span>• Utility-first CSS (Tailwind / Windi)</span>
       </div>
     </td>
