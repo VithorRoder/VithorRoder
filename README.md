@@ -47,62 +47,70 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="38" height="38"/>
 </p>
+<br>
 
 <table align="center" style="width: 100%; table-layout: fixed;">
   <tr>
-    <td align="center">
-      <h3>Backend Development</h3>
-      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-        • Java  &nbsp;|&nbsp; JDBC<br>
-        • Spring Framework &nbsp;|&nbsp; JPA/Hibernate<br>
-        • Maven<br>
-        • PostgreSQL
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>⚙️ Backend Development</h3>
+      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
+        <span>• Java</span>
+        <span>• Spring (Boot, Security, Data JPA)</span>
+        <span>• RESTful APIs</span>
+        <span>• Maven</span>
+        <span>• JUnit / Mockito</span>
       </div>
     </td>
-    <td align="center">
-      <h3>Frontend Desktop</h3>
-      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-        • Java Swing<br>
-        • JavaFX<br>
-        • SWT
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>🖥️ Frontend Desktop</h3>
+      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
+        <span>• Java Swing</span>
+        <span>• JavaFX</span>
+        <span>• SWT</span>
       </div>
     </td>
-    <td align="center">
-      <h3>Frontend Web</h3>
-      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-        • HTML  |  CSS |  JavaScript<br>
-        • Tailwind CSS<br>
-        • Windi CSS
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>🌐 Frontend Web</h3>
+      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
+        <span>• HTML</span>
+        <span>• CSS</span>
+        <span>• JavaScript</span>
+        <span>• Utility-first CSS (Tailwind / Windi)</span>
       </div>
     </td>
   </tr>
-<tr>
-    <td align="center">
-      <h3>DevOps & Cloud</h3>
-      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-       • AWS (EC2, S3, RDS)<br>
-       • Docker<br>
-       • Kubernetes<br>
-       • CI/CD (GitHub Actions)<br>
-       • Nginx
+  <tr>
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>☁️ DevOps & Cloud</h3>
+      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
+        <span>• AWS (EC2, S3, RDS)</span>
+        <span>• Docker</span>
+        <span>• Kubernetes</span>
+        <span>• CI/CD (GitHub Actions)</span>
+        <span>• Nginx</span>
       </div>
     </td>
-    <td align="center">
-      <h3>Tools & IDEs</h3>
-      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-        • VSCode | IntelliJ IDEA | NetBeans<br>
-        • Postman | pgAdmin<br>
-        • Docker Desktop<br><br><br>
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>🗄️ Databases</h3>
+      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
+        <span>• PostgreSQL</span>
+        <span>• JDBC</span>
+        <span>• JPA / Hibernate</span>
+        <span>• Flyway</span>
+        <span>• Database Design & Optimization</span>
       </div>
     </td>
-    <td align="center">
-      <h3>Other Skills</h3>
-      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-        • Object-Oriented Programming<br>
-        • Agile / Scrum Methodologies<br>
-        • Database Design & Optimization<br>
-        • Game dev (Unity + C#)<br>
-        • Git & GitHub<br><br>
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>🧩 Tools & Collaboration</h3>
+      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
+        <span>• IntelliJ IDEA</span>
+        <span>• VSCode</span>
+        <span>• NetBeans</span>
+        <span>• Postman</span>
+        <span>• pgAdmin</span>
+        <span>• Docker Desktop</span>
+        <span>• Git & GitHub</span>
+        <span>• Agile / Scrum</span>
       </div>
     </td>
   </tr>
