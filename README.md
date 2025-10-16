@@ -48,58 +48,65 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="38" height="38"/>
 </p>
 
-<div align="center">
-<table>
+<table align="center" style="width: 100%; table-layout: fixed;">
   <tr>
-    <td valign="top" width="55%">
-
-🔹 **Backend**  
-- Java  
-- JDBC  
-- Spring Boot | Spring Security | JPA/Hibernate  
-- Maven  
-- PostgreSQL  
-- RESTful APIs  
-
-🔹 **DevOps & Cloud**  
-- AWS (EC2, S3, RDS)  
-- Docker  
-- Kubernetes  
-- CI/CD (GitHub Actions)  
-- Nginx  
-
-🔹 **Game Dev**  
-- Unity + C#  
-
-🔹 **Version Control & Collaboration**  
-- Git & GitHub  
-
+    <td align="center">
+      <h3>Backend Development</h3>
+      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        • Java  &nbsp;|&nbsp; JDBC<br>
+        • Spring Framework &nbsp;|&nbsp; JPA/Hibernate<br>
+        • Maven<br>
+        • PostgreSQL
+      </div>
     </td>
-    <td valign="top" width="50%">
-
-🔹 **Frontend Web**  
-- HTML5 | CSS3 | JavaScript  
-- Responsive Design  
-- REST API Integration  
-
-🔹 **Frontend Desktop**  
-- Java Swing  
-- JavaFX  
-
-🔹 **Tools & IDEs**  
-- VSCode | IntelliJ IDEA | NetBeans  
-- Postman | pgAdmin  
-- Docker Desktop  
-
-🔹 **Other Skills**  
-- Object-Oriented Programming (OOP)  
-- Database Design & Optimization  
-- Agile / Scrum Methodologies  
-
+    <td align="center">
+      <h3>Frontend Desktop</h3>
+      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        • Java Swing<br>
+        • JavaFX<br>
+        • SWT
+      </div>
+    </td>
+    <td align="center">
+      <h3>Frontend Web</h3>
+      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        • HTML  |  CSS |  JavaScript<br>
+        • Tailwind CSS<br>
+        • Windi CSS
+      </div>
+    </td>
+  </tr>
+<tr>
+    <td align="center">
+      <h3>DevOps & Cloud</h3>
+      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+       • AWS (EC2, S3, RDS)<br>
+       • Docker<br>
+       • Kubernetes<br>
+       • CI/CD (GitHub Actions)<br>
+       • Nginx
+      </div>
+    </td>
+    <td align="center">
+      <h3>Tools & IDEs</h3>
+      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        • VSCode | IntelliJ IDEA | NetBeans<br>
+        • Postman | pgAdmin<br>
+        • Docker Desktop<br><br><br>
+      </div>
+    </td>
+    <td align="center">
+      <h3>Other Skills</h3>
+      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        • Object-Oriented Programming<br>
+        • Agile / Scrum Methodologies<br>
+        • Database Design & Optimization<br>
+        • Game dev (Unity + C#)<br>
+        • Git & GitHub<br><br>
+      </div>
     </td>
   </tr>
 </table>
-</div>
 
 ---
 
