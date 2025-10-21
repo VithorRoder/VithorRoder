@@ -9,8 +9,6 @@ Full-Stack Developer focused on creating scalable systems through clean architec
 
 ---
 
-<br>
-
 ### 💻 Technologies and Tools I Use:
 
 <br>
