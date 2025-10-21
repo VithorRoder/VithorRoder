@@ -1,13 +1,15 @@
 🌐 [🇧🇷 Português](./README_pt.md) | [🇺🇸 English](./README.md)
 
-# Hello! I'm Vithor Roder 👋
+# Hello! I'm Vithor👋
+
+---
+<h3 align="center">
+Full-Stack Developer focused on creating scalable systems through clean architecture, efficient logic, and rapid implementation. Committed to delivering reliable and maintainable solutions from concept to deployment.
+</h3>
 
 ---
 
-**Brazilian Full-Stack Developer, 26 years old, passionate about creating scalable and creative digital solutions. I combine logical thinking, problem-solving skills, and hands-on experience to deliver efficient applications that generate real impact.**
-
-
----
+<br>
 
 ### 💻 Technologies and Tools I Use:
 
@@ -116,22 +118,7 @@
   </tr>
 </table>
 
----
-
-### 📌 Projects I’ve Built:
-
-- **🔧 Budgeting and Inventory Management System (Java + PostgreSQL)**  
-  Developed for internal use at **Gráfica Phoenix** — manages quotes, service orders, and inventory control.
-
-- **🌐 Institutional Website (HTML/CSS/JS)**  
-  Website built to promote **Gráfica Phoenix** online, the company where I currently work.
-
-- **🎮 2D Point-and-Shoot Multiplayer Game (Unity)**  
-  Supports both mobile and desktop platforms, with pixel art animations and online networking using Photon.
-
-- **⚙️ Enterprise API + Swing Client (Spring Boot, JWT, Flyway, PostgreSQL)**  
-  Professional backend built with Spring Boot, JWT authentication, Flyway migrations, and PostgreSQL.  
-  Java Swing client consuming the API, ensuring separation of concerns and secure database access.
+<br>
 
 ---
 
