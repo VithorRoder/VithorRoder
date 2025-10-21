@@ -58,7 +58,7 @@
         <span>• Spring (Boot, Security, Data JPA)</span>
         <span>• APIs RESTful</span>
         <span>• Maven</span>
-        <span>• JUnit / Mockito</span>
+        <span>• JUnit / Mockito</span><br><br>
       </div>
     </td>
     <td align="center" valign="top" style="padding: 10px;">
@@ -110,7 +110,7 @@
         <span>• pgAdmin</span>
         <span>• Docker Desktop</span>
         <span>• Git & GitHub</span>
-        <span>• Metodologias Ágeis (Scrum)</span>
+        <span>• Metodologias Ágeis (Scrum)</span><br><br>
       </div>
     </td>
   </tr>
