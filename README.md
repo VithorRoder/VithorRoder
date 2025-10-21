@@ -116,8 +116,6 @@ Full-Stack Developer focused on creating scalable systems through clean architec
   </tr>
 </table>
 
-<br>
-
 ---
 
 ### 🎓 Education:
