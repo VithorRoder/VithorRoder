@@ -3,8 +3,9 @@
 # Oi! tudo bem? Eu sou o Vithor 👋
 
 ---
-
-**Desenvolvedor Full-Stack brasileiro, 26 anos, apaixonado por criar soluções digitais escaláveis e criativas. Uno raciocínio lógico, capacidade de resolução de problemas e experiência prática para entregar aplicações eficientes que geram impacto real.**
+<h3 align="center">
+Desenvolvedor Full Stack dedicado a transformar ideias em sistemas escaláveis e bem estruturados. Busco sempre unir clean code, agilidade e eficiência, entregando soluções sólidas do conceito ao deploy.
+</h3>
 
 
 ---
@@ -115,25 +116,6 @@
     </td>
   </tr>
 </table>
-
-
----
-
-### 📌 Projetos que Desenvolvi:
-
-- **🔧 Sistema de Orçamento e Controle de Estoque (Java + PostgreSQL)**  
-  Criado para uso interno na **Gráfica Phoenix** — gerencia orçamentos, ordens de serviço e controle de estoque.
-
-- **🌐 Site Institucional (HTML/CSS/JS)**  
-  Website desenvolvido para promover a presença online da Gráfica Phoenix, empresa onde atuo atualmente.
-
-- **🎮 Jogo 2D Point-and-Shoot Multiplayer (Unity)**  
-  Compatível com plataformas mobile e desktop, com animações em pixel art e rede online utilizando Photon.
-
-- **⚙️ API Corporativa + Cliente Swing (Spring Boot, JWT, Flyway, PostgreSQL)**  
-  Backend profissional construído com Spring Boot, autenticação via JWT, migrações de banco com Flyway e PostgreSQL.  
-  Cliente em Java Swing consumindo a API, garantindo separação de responsabilidades e acesso seguro ao banco.
-
 
 ---
 
