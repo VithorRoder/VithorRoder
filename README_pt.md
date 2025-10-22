@@ -76,7 +76,7 @@ Desenvolvedor Full Stack dedicado a transformar ideias em sistemas escaláveis e
         <span>• HTML</span>
         <span>• CSS</span>
         <span>• JavaScript</span><br>
-        <span>• CSS utilitário (Tailwind / Windi)</span>
+        <span>• CSS Frameworks (Tailwind / Windi)</span>
       </div>
     </td>
   </tr>
