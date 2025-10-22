@@ -75,7 +75,7 @@ Full-Stack Developer focused on creating scalable systems through clean architec
         <span>• HTML</span>
         <span>• CSS</span>
         <span>• JavaScript</span><br>
-        <span>• Utility-first CSS (Tailwind / Windi)</span>
+        <span>• CSS Frameworks (Tailwind / Windi)</span>
       </div>
     </td>
   </tr>
