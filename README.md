@@ -120,7 +120,7 @@ Full-Stack Developer focused on creating scalable systems through clean architec
 
 ### 🎓 Education:
 
-- Associate Degree in Systems Analysis and Development — IBMR Barra da Tijuca (Aug 2025 – Dec 2027, expected)  
+- Associate Degree in Systems Analysis and Development — IBMR University (Aug 2025 – Dec 2027, expected)  
 
 ---
 
