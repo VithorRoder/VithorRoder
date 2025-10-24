@@ -1,6 +1,6 @@
 🌐 [🇧🇷 Português](./README_pt.md) | [🇺🇸 English](./README.md)
 
-<h1>Hello! I'm Vithor
+<h1>E aí! Tudo bem? Eu sou o Vithor
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="33"/></h1>
 
 ---
