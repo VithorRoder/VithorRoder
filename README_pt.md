@@ -120,12 +120,6 @@ Desenvolvedor Full Stack dedicado a transformar ideias em sistemas escaláveis e
 
 ---
 
-### 🎓 Formação Acadêmica:
-
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)** — IBMR Barra da Tijuca (Ago 2025 – Dez 2027, previsto)  
-
----
-
 ### 📍 Sobre Mim:
 
 - 🇧🇷 Brasileiro, baseado no Rio de Janeiro  
