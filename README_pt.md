@@ -109,7 +109,6 @@ Desenvolvedor Full Stack dedicado a transformar ideias em sistemas escaláveis e
 - 🇧🇷 Brasileiro, baseado no Rio de Janeiro  
 - 👨‍💻 Desenvolvedor autodidata com experiência prática em projetos reais  
 - 🧩 Sempre explorando novas tecnologias e aprimorando minhas habilidades  
-- 🧾 Atualmente atuando na **Gráfica Phoenix**, gerenciando operações de tecnologia e finanças  
 
 ---
 
