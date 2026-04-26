@@ -108,7 +108,6 @@ Full-Stack Developer focused on creating scalable systems through clean architec
 - 🇧🇷 Brazilian, based in Rio de Janeiro  
 - 👨‍💻 Self-taught developer with hands-on experience in real projects  
 - 🧩 Always exploring new technologies and improving my skills  
-- 🧾 Currently working at **Gráfica Phoenix**, managing technology and finance operations  
 
 ---
 
