@@ -88,8 +88,8 @@ Full-Stack Developer focused on creating scalable systems through clean architec
     <td align="center" valign="top" style="padding: 10px;">
       <h3>🧩 Tools & Collaboration</h3>
       <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
-        <span>• IntelliJ IDEA</span>
-        <span>• VSCode</span>
+        <span>• IntelliJ IDE</span>
+        <span>• Cursor IDE</span>
         <span>• NetBeans</span><br>
         <span>• Postman</span>
         <span>• pgAdmin</span>
