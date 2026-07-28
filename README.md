@@ -1,3 +1,35 @@
+<div align="center">
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:58A6FF&height=190&section=header&text=Vithor%20Roder&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20Cloud&descAlignY=58&descSize=18" alt="Vithor Roder — Full-Stack Developer" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+reliable+and+scalable+software;From+backend+architecture+to+cloud+deployment;Clean+code.+Practical+solutions.+Continuous+growth." alt="Typing introduction" />
+  </a>
+
+  <br />
+
+  <a href="https://www.linkedin.com/in/vithor-roder-1700a217a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vithorleaoroder@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://vithoroderdev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+
+</div>
+
+## About Me
+
+I am a Brazilian **Full-Stack Developer** based in Rio de Janeiro, focused on building reliable, maintainable, and scalable software.
+
+My strongest expertise is in the **Java ecosystem**, where I develop backend applications and RESTful APIs with Spring. I also work across frontend development, relational databases, containerization, and cloud infrastructure—taking solutions from initial design to deployment.
+
+I value clean architecture, pragmatic engineering, and continuous improvement. My goal is simple: turn complex requirements into software that is clear, efficient, and built to last.
+
+<br />
+
 ## Technology Stack
 
 <div align="center">
@@ -43,19 +75,52 @@
 
 ## Engineering Focus
 
-```text
-Backend Architecture   ███████████████████░   Java · Spring · REST APIs
-Data & Persistence     █████████████████░░░   PostgreSQL · JPA · Hibernate
-Cloud & DevOps         ███████████████░░░░░   AWS · Docker · Kubernetes · CI/CD
-Frontend Development   █████████████░░░░░░░   HTML · CSS · JavaScript
-```
-
-- Designing layered, maintainable backend applications
-- Building secure RESTful APIs with the Spring ecosystem
-- Modeling and optimizing relational databases
-- Containerizing applications and automating delivery pipelines
-- Developing desktop interfaces with JavaFX, Swing, and SWT
-- Working with Agile practices and collaborative development workflows
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ Backend Engineering</h3>
+      <p align="center">
+        <code>Java</code> · <code>Spring</code> · <code>REST APIs</code>
+      </p>
+      <p>
+        Designing secure, layered applications with clean boundaries,
+        maintainable business logic, and automated testing.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗄️ Data & Persistence</h3>
+      <p align="center">
+        <code>PostgreSQL</code> · <code>JPA</code> · <code>Hibernate</code>
+      </p>
+      <p>
+        Modeling relational data, managing schema evolution, and building
+        efficient persistence layers.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ Cloud & Delivery</h3>
+      <p align="center">
+        <code>AWS</code> · <code>Docker</code> · <code>Kubernetes</code>
+      </p>
+      <p>
+        Containerizing services, automating CI/CD pipelines, and preparing
+        applications for reliable cloud deployment.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🖥️ User Experiences</h3>
+      <p align="center">
+        <code>Web</code> · <code>JavaFX</code> · <code>Swing</code>
+      </p>
+      <p>
+        Creating practical web and desktop interfaces that connect users
+        with robust application logic.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -63,12 +128,20 @@ Frontend Development   █████████████░░░░░░
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VithorRoder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="Vithor's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VithorRoder&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Vithor's most used languages" />
+  <a href="https://github.com/VithorRoder">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VithorRoder&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Vithor's GitHub contribution graph" />
+  </a>
 
-  <br />
+  <br /><br />
 
-  <img src="https://streak-stats.demolab.com?user=VithorRoder&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Vithor's GitHub contribution streak" />
+  <a href="https://github.com/VithorRoder">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VithorRoder&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="Vithor's GitHub contribution streak" />
+  </a>
+
+  <br /><br />
+
+  <img src="https://img.shields.io/github/followers/VithorRoder?style=for-the-badge&logo=github&label=Followers&color=0969DA" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=VithorRoder&style=for-the-badge&color=0969DA&label=Profile+Views" alt="Profile views" />
 
 </div>
 
