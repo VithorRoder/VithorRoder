@@ -1,10 +1,14 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:58A6FF&height=190&section=header&text=Vithor%20Roder&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20Cloud&descAlignY=58&descSize=18" alt="Vithor Roder — Full-Stack Developer" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+reliable+and+scalable+software;From+backend+architecture+to+cloud+deployment;Clean+code.+Practical+solutions.+Continuous+growth." alt="Typing introduction" />
-  </a>
+  <h1>Hi, I'm Vithor Roder 👋</h1>
+  <h3>Full-Stack Developer · Java & Spring · Cloud & DevOps</h3>
+  <p>
+    Building reliable and scalable software—from backend architecture
+    to cloud deployment.
+  </p>
+  <p>
+    <code>Clean code</code> · <code>Practical solutions</code> · <code>Continuous growth</code>
+  </p>
 
   <br />
 
@@ -132,17 +136,6 @@ I value clean architecture, pragmatic engineering, and continuous improvement. M
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VithorRoder&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Vithor's GitHub contribution graph" />
   </a>
 
-  <br /><br />
-
-  <a href="https://github.com/VithorRoder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VithorRoder&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="Vithor's GitHub contribution streak" />
-  </a>
-
-  <br /><br />
-
-  <img src="https://img.shields.io/github/followers/VithorRoder?style=for-the-badge&logo=github&label=Followers&color=0969DA" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=VithorRoder&style=for-the-badge&color=0969DA&label=Profile+Views" alt="Profile views" />
-
 </div>
 
 <br />
@@ -160,7 +153,5 @@ I am always interested in exchanging ideas about software engineering, backend d
   <br /><br />
 
   <sub>Building thoughtful software, one commit at a time.</sub>
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:0969DA,100:0D1117&height=110&section=footer" alt="" />
 
 </div>
