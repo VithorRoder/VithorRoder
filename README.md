@@ -1,118 +1,93 @@
+## Technology Stack
 
-<h1>Hello! I'm Vithor
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
-
----
-<h3 align="center">
-Full-Stack Developer focused on creating scalable systems through clean architecture, efficient logic, and rapid implementation. Committed to delivering reliable and maintainable solutions from concept to deployment.
-</h3>
-
----
-
-### 💻 Technologies and Tools I Use:
-
-<br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="38"/>  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="38"/>  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="38"/>  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38"/>  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38"/>  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38"/>  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38"/>  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="38"/>  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="38"/>  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38"/>  &nbsp;
-  <img src="https://raw.githubusercontent.com/VithorRoder/VithorRoder/main/github-mark-white.svg" width="38"/>  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="38"/>  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="38"/>  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="38"/>  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38"/>  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="38"/>  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="38"/>  &nbsp;
+
+### Backend & APIs
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+### Frontend & Desktop
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Data, Cloud & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
-<br>
 
-<table align="center" style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td align="center" valign="top" style="padding: 10px;">
-      <h3>⚙️ Backend Development</h3>
-      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
-        <span>• Java</span>
-        <span>• Spring (Boot, Security, Data JPA)</span>
-        <span>• RESTful APIs</span>
-        <span>• Maven</span>
-        <span>• JUnit / Mockito</span><br><br>
-      </div>
-    </td>
-    <td align="center" valign="top" style="padding: 10px;">
-      <h3>🖥️ Frontend Desktop</h3>
-      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
-        <span>• Java Swing</span>
-        <span>• JavaFX</span>
-        <span>• SWT</span>
-      </div>
-    </td>
-    <td align="center" valign="top" style="padding: 10px;">
-      <h3>🌐 Frontend Web</h3>
-      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
-        <span>• HTML</span>
-        <span>• CSS</span>
-        <span>• JavaScript</span><br>
-        <span>• CSS Frameworks (Tailwind / Windi)</span>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" style="padding: 10px;">
-      <h3>☁️ DevOps & Cloud</h3>
-      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
-        <span>• AWS (EC2, S3, RDS)</span>
-        <span>• Docker</span>
-        <span>• Kubernetes</span>
-        <span>• CI/CD (GitHub Actions)</span>
-        <span>• Nginx</span>
-      </div>
-    </td>
-    <td align="center" valign="top" style="padding: 10px;">
-      <h3>🗄️ Databases</h3>
-      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
-        <span>• PostgreSQL</span>
-        <span>• JDBC</span>
-        <span>• JPA / Hibernate</span>
-        <span>• Flyway</span>
-        <span>• Database Design & Optimization</span>
-      </div>
-    </td>
-    <td align="center" valign="top" style="padding: 10px;">
-      <h3>🧩 Tools & Collaboration</h3>
-      <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;min-height:130px;">
-        <span>• IntelliJ IDE</span>
-        <span>• Cursor IDE</span>
-        <span>• NetBeans</span><br>
-        <span>• Postman</span>
-        <span>• pgAdmin</span>
-        <span>• Docker Desktop</span>
-        <span>• Git & GitHub</span>
-        <span>• Agile / Scrum</span><br><br>
-      </div>
-    </td>
-  </tr>
-</table>
+<br />
 
----
+## Engineering Focus
 
-### 📍 About Me:
+```text
+Backend Architecture   ███████████████████░   Java · Spring · REST APIs
+Data & Persistence     █████████████████░░░   PostgreSQL · JPA · Hibernate
+Cloud & DevOps         ███████████████░░░░░   AWS · Docker · Kubernetes · CI/CD
+Frontend Development   █████████████░░░░░░░   HTML · CSS · JavaScript
+```
 
-- 🇧🇷 Brazilian, based in Rio de Janeiro  
-- 👨‍💻 Self-taught developer with hands-on experience in real projects  
-- 🧩 Always exploring new technologies and improving my skills  
+- Designing layered, maintainable backend applications
+- Building secure RESTful APIs with the Spring ecosystem
+- Modeling and optimizing relational databases
+- Containerizing applications and automating delivery pipelines
+- Developing desktop interfaces with JavaFX, Swing, and SWT
+- Working with Agile practices and collaborative development workflows
 
----
+<br />
 
-### 📫 Contact:
+## GitHub Activity
 
-- [LinkedIn](https://www.linkedin.com/in/vithor-roder-1700a217a/)  
-- Email: **vithorleaoroder@gmail.com**  
-- GitHub: [github.com/vithorroder](https://github.com/VithorRoder)  
-- Website: [DevPortfolio](https://vithoroderdev.vercel.app/)  
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VithorRoder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="Vithor's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VithorRoder&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Vithor's most used languages" />
+
+  <br />
+
+  <img src="https://streak-stats.demolab.com?user=VithorRoder&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Vithor's GitHub contribution streak" />
+
+</div>
+
+<br />
+
+## Let's Connect
+
+I am always interested in exchanging ideas about software engineering, backend development, and cloud technologies.
+
+<div align="center">
+
+  **[LinkedIn](https://www.linkedin.com/in/vithor-roder-1700a217a/)** ·
+  **[Portfolio](https://vithoroderdev.vercel.app/)** ·
+  **[Email](mailto:vithorleaoroder@gmail.com)**
+
+  <br /><br />
+
+  <sub>Building thoughtful software, one commit at a time.</sub>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:0969DA,100:0D1117&height=110&section=footer" alt="" />
+
+</div>
