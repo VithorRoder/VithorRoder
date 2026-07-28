@@ -1,29 +1,3 @@
-<div align="center">
-
-  <h1>Hi, I'm Vithor Roder 👋</h1>
-  <h3>Full-Stack Developer · Java & Spring · Cloud & DevOps</h3>
-  <p>
-    Building reliable and scalable software—from backend architecture
-    to cloud deployment.
-  </p>
-  <p>
-    <code>Clean code</code> · <code>Practical solutions</code> · <code>Continuous growth</code>
-  </p>
-
-  <br />
-
-  <a href="https://www.linkedin.com/in/vithor-roder-1700a217a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vithorleaoroder@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://vithoroderdev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-
-</div>
-
 ## About Me
 
 I am a Brazilian **Full-Stack Developer** based in Rio de Janeiro, focused on building reliable, maintainable, and scalable software.
