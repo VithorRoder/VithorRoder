@@ -1,3 +1,11 @@
+<div align="center">
+
+  <img width="100%" src="https://raw.githubusercontent.com/VithorRoder/VithorRoder/main/assets/profile-banner.svg" alt="Vithor Roder — Full-Stack Developer · Java and Spring · Cloud and DevOps" />
+
+</div>
+
+<br />
+
 ## Technology Stack
 
 <div align="center">
