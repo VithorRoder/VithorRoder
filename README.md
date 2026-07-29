@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  <img width="100%" src="https://raw.githubusercontent.com/VithorRoder/VithorRoder/76ee13d790bcf5cabea42180fa0d2e8a35489927/assets/technology-stack.svg" alt="Technology stack in a compact 2 by 2 grid: Backend and APIs, Frontend and Desktop, Data Cloud and DevOps, and Tools" />
+  <img width="100%" src="https://raw.githubusercontent.com/VithorRoder/VithorRoder/385ab9e0f73128012a3f15d1a2f1c37e501024a7/assets/technology-stack.svg" alt="Technology stack in a compact 2 by 2 grid: Backend and APIs, Frontend and Desktop, Data Cloud and DevOps, and Tools" />
 
 </div>
 
