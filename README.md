@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  <img width="100%" src="https://raw.githubusercontent.com/VithorRoder/VithorRoder/main/assets/technology-stack.svg" alt="Technology stack: Java, Spring Boot, Spring Security, Hibernate, Maven, JUnit, HTML5, CSS3, JavaScript, Tailwind CSS, JavaFX, Java Swing, PostgreSQL, AWS, Docker, Kubernetes, GitHub Actions, Nginx, Git, GitHub, IntelliJ IDEA, VS Code, and Postman" />
+  <img width="100%" src="https://raw.githubusercontent.com/VithorRoder/VithorRoder/82e102573be5006b74bddb4c912571f7136e93d2/assets/technology-stack.svg" alt="Technology stack: Java, Spring Boot, Spring Security, Hibernate, Maven, JUnit, HTML5, CSS3, JavaScript, Tailwind CSS, JavaFX, Java Swing, PostgreSQL, AWS, Docker, Kubernetes, GitHub Actions, Nginx, Git, GitHub, IntelliJ IDEA, VS Code, Postman, and NetBeans" />
 
 </div>
 
