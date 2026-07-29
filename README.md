@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="100%" src="https://raw.githubusercontent.com/VithorRoder/VithorRoder/main/assets/profile-banner.svg?v=3" alt="Vithor Roder — Full-Stack Developer · Java and Spring · Cloud and DevOps" />
+  <img width="100%" src="https://raw.githubusercontent.com/VithorRoder/VithorRoder/9573eb8221ed60b6d85f3c620dba03e0a6d9ce03/assets/profile-banner.svg" alt="Vithor Roder — Full-Stack Developer · Java and Spring · Cloud and DevOps" />
 
 </div>
 
