@@ -12,7 +12,7 @@
 
   <img
     width="100%"
-    src="./assets/"
+    src="./assets/TechnologyStackTable.svg"
     alt="Technology stack: Backend and APIs, Frontend and Desktop, Data Cloud and DevOps, and Development and AI Tools"
   />
 
