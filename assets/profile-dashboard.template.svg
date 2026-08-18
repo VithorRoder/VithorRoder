@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="2340" viewBox="0 0 1400 2340" role="img" aria-labelledby="profile-title profile-desc">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="2452" viewBox="0 0 1400 2452" role="img" aria-labelledby="profile-title profile-desc">
   <title id="profile-title">Vithor Roder animated GitHub profile preview</title>
-  <desc id="profile-desc">A faithful dark blue composition of the current profile with the original banner, technology badges, engineering focus, biography, current GitHub activity graph, and contact footer.</desc>
+  <desc id="profile-desc">A faithful dark blue composition of the current profile with the original banner, technology badges, engineering focus, biography, current GitHub activity graph, and animated footer.</desc>
   <defs>
     <linearGradient id="page-bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07111f"/>
@@ -19,14 +19,12 @@
     <pattern id="page-grid" width="64" height="64" patternUnits="userSpaceOnUse">
       <path d="M64 0H0V64" fill="none" stroke="#58a6ff" stroke-opacity=".04"/>
     </pattern>
-    <clipPath id="page-clip"><rect x="2" y="2" width="1396" height="2336" rx="30"/></clipPath>
+    <clipPath id="page-clip"><rect x="2" y="2" width="1396" height="2448" rx="30"/></clipPath>
     <style>
       .ui { font-family:Arial; }
       .mono { font-family:Arial; }
       .focus-card { fill:#151b23; stroke:#30363d; stroke-width:2; }
       .focus-icon { fill:#58a6ff; fill-opacity:.12; stroke:#58a6ff; stroke-width:2.5; }
-      .contact-button { fill:#151b23; stroke:#30363d; stroke-width:2; }
-      .contact-button-primary { fill:#1f6feb; }
       .footer-pulse { animation: footer-pulse 2.8s ease-in-out infinite; }
       @keyframes footer-pulse { 0%,100% { opacity:.35 } 50% { opacity:1 } }
       @media (prefers-reduced-motion: reduce) { * { animation:none !important; } }
@@ -34,8 +32,8 @@
   </defs>
 
   <g clip-path="url(#page-clip)">
-    <rect width="1400" height="2340" fill="url(#page-bg)"/>
-    <rect width="1400" height="2340" fill="url(#page-grid)"/>
+    <rect width="1400" height="2452" fill="url(#page-bg)"/>
+    <rect width="1400" height="2452" fill="url(#page-grid)"/>
     <circle cx="80" cy="90" r="360" fill="url(#page-glow)"/>
     <circle cx="1330" cy="800" r="430" fill="url(#page-glow)" opacity=".6"/>
 
@@ -130,11 +128,11 @@
 
 </svg>
 
-    <g class="ui">
+    <g class="ui" transform="translate(0 32)">
       <text x="44" y="350" fill="#f0f6fc" font-size="31" font-weight="700">Technology Stack</text>
       <path d="M44 370H1356" stroke="#30363d" stroke-width="2"/>
     </g>
-    <svg x="44" y="392" width="1312" height="476.3" viewBox="0 0 37050 13450" preserveAspectRatio="xMidYMid meet">
+    <svg x="44" y="440" width="1312" height="476.3" viewBox="0 0 37050 13450" preserveAspectRatio="xMidYMid meet">
 
  <defs>
   <style type="text/css">
@@ -288,7 +286,7 @@
 
 </svg>
 
-    <g class="ui">
+    <g class="ui" transform="translate(0 80)">
       <text x="44" y="934" fill="#f0f6fc" font-size="31" font-weight="700">Engineering Focus</text>
       <path d="M44 955H1356" stroke="#30363d" stroke-width="2"/>
 
@@ -329,21 +327,23 @@
         </g>
       </g>
 
-      <text x="44" y="1243" fill="#f0f6fc" font-size="31" font-weight="700">About Me</text>
-      <path d="M44 1264H1356" stroke="#30363d" stroke-width="2"/>
-      <g fill="#c9d1d9" font-size="19">
-        <text x="44" y="1304">I am a Brazilian Full-Stack Developer based in Rio de Janeiro, focused on building reliable, maintainable, and scalable software.</text>
-        <text x="44" y="1362">My strongest expertise is in the Java ecosystem, where I develop backend applications and RESTful APIs with Spring.</text>
-        <text x="44" y="1394">I also work across frontend development, relational databases, containerization, and cloud infrastructure from initial design to deployment.</text>
-        <text x="44" y="1452">I value clean architecture, pragmatic engineering, and continuous improvement. My goal is simple: turn complex requirements</text>
-        <text x="44" y="1484">into software that is clear, efficient, and built to last.</text>
-      </g>
+      <g transform="translate(0 32)">
+        <text x="44" y="1243" fill="#f0f6fc" font-size="31" font-weight="700">About Me</text>
+        <path d="M44 1264H1356" stroke="#30363d" stroke-width="2"/>
+        <g fill="#c9d1d9" font-size="19">
+          <text x="44" y="1304">I am a Brazilian Full-Stack Developer based in Rio de Janeiro, focused on building reliable, maintainable, and scalable software.</text>
+          <text x="44" y="1362">My strongest expertise is in the Java ecosystem, where I develop backend applications and RESTful APIs with Spring.</text>
+          <text x="44" y="1394">I also work across frontend development, relational databases, containerization, and cloud infrastructure from initial design to deployment.</text>
+          <text x="44" y="1452">I value clean architecture, pragmatic engineering, and continuous improvement. My goal is simple: turn complex requirements</text>
+          <text x="44" y="1484">into software that is clear, efficient, and built to last.</text>
+        </g>
 
-      <text x="44" y="1586" fill="#f0f6fc" font-size="31" font-weight="700">GitHub Activity</text>
-      <path d="M44 1607H1356" stroke="#30363d" stroke-width="2"/>
+        <text x="44" y="1586" fill="#f0f6fc" font-size="31" font-weight="700">GitHub Activity</text>
+        <path d="M44 1607H1356" stroke="#30363d" stroke-width="2"/>
+      </g>
     </g>
     <!-- ACTIVITY_START -->
-    <svg x="44" y="1620" width="1312" height="459.2" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMid meet">
+    <svg x="44" y="1732" width="1312" height="459.2" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMid meet">
 
             <rect xmlns="http://www.w3.org/2000/svg" data-testid="card_bg" id="cardBg"
             x="0" y="0" rx="0" height="100%" stroke="#E4E2E2" fill-opacity="1"
@@ -502,13 +502,13 @@
     </svg>
     <!-- ACTIVITY_END -->
 
-    <g class="ui" transform="translate(44 2166)">
+    <g class="ui" transform="translate(44 2278)">
       <circle class="footer-pulse" cx="4" cy="-18" r="4" fill="#58a6ff"/>
       <text x="18" y="-10" fill="#f0f6fc" font-size="25" font-weight="700">Let’s build something reliable.</text>
       <text x="18" y="22" fill="#8b949e" font-size="15">Building thoughtful software, one commit at a time.</text>
     </g>
 
-    <g aria-label="Animated blue wave footer" transform="translate(0 2230) scale(1.6393442623 1)">
+    <g aria-label="Animated blue wave footer" transform="translate(0 2342) scale(1.6393442623 1)">
       <g transform="translate(854 110) rotate(180)">
         <path d="M0 0L0 30Q213.5 70 427 40T854 65L854 0Z" fill="url(#footer-wave-gradient)" opacity=".4">
           <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" values="M0 0L0 30Q213.5 70 427 40T854 65L854 0Z;M0 0L0 55Q213.5 70 427 50T854 40L854 0Z;M0 0L0 75Q213.5 45 427 75T854 40L854 0Z;M0 0L0 30Q213.5 70 427 40T854 65L854 0Z"/>
@@ -519,5 +519,5 @@
       </g>
     </g>
   </g>
-  <rect x="2" y="2" width="1396" height="2336" rx="30" fill="none" stroke="#30363d" stroke-width="4"/>
+  <rect x="2" y="2" width="1396" height="2448" rx="30" fill="none" stroke="#30363d" stroke-width="4"/>
 </svg>
