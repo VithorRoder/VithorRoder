@@ -56,7 +56,7 @@ I value clean architecture, pragmatic engineering, and continuous improvement. M
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/vithor-roder-1700a217a/">
+  <a href="https://www.linkedin.com/in/vithor-roder/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Connect on LinkedIn"
