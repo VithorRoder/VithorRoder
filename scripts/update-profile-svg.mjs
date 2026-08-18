@@ -44,7 +44,7 @@ function buildActivityRegion(source) {
   inner = useArialOnly(inner);
 
   return `${activityStart}
-    <svg x="44" y="1620" width="1312" height="459.2" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMid meet">
+    <svg x="44" y="1732" width="1312" height="459.2" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMid meet">
 ${inner.trim()}
     </svg>
     ${activityEnd}`;
