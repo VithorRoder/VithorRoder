@@ -32,14 +32,6 @@
 
 </div>
 
-## About Me
-
-I am a Brazilian Full-Stack Developer based in Rio de Janeiro, focused on building reliable, maintainable, and scalable software.
-
-My strongest expertise is in the Java ecosystem, where I develop backend applications and RESTful APIs with Spring. I also work across frontend development, relational databases, containerization, and cloud infrastructure from initial design to deployment.
-
-I value clean architecture, pragmatic engineering, and continuous improvement. My goal is simple: turn complex requirements into software that is clear, efficient, and built to last.
-
 ## GitHub Activity
 
 <div align="center">
@@ -50,16 +42,37 @@ I value clean architecture, pragmatic engineering, and continuous improvement. M
     alt="Vithor Roder's GitHub contribution graph"
   />
 
-  <br>
+</div>
+
+## About Me
+
+I am a Brazilian Full-Stack Developer based in Rio de Janeiro, focused on building reliable, maintainable, and scalable software.
+
+My strongest expertise is in the Java ecosystem, where I develop backend applications and RESTful APIs with Spring. I also work across frontend development, relational databases, containerization, and cloud infrastructure from initial design to deployment.
+
+I value clean architecture, pragmatic engineering, and continuous improvement. My goal is simple: turn complex requirements into software that is clear, efficient, and built to last.
+
+<br><br>
+
+<div align="center">
 
   <a href="https://www.linkedin.com/in/vithor-roder-1700a217a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect on LinkedIn"
+    />
   </a>
   <a href="https://vithoroderdev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Visit portfolio"
+    />
   </a>
   <a href="mailto:vithorleaoroder@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Send an email"
+    />
   </a>
 
 </div>
