@@ -64,3 +64,5 @@ I value clean architecture, pragmatic engineering, and continuous improvement. M
   </a>
 
 </div>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:0969DA,100:0D1117&height=110&section=footer" alt="" />
