@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="270" viewBox="0 0 1400 270" role="img" aria-labelledby="focus-title focus-description">
+  <title id="focus-title">Engineering Focus</title>
+  <desc id="focus-description">Four cards covering backend engineering, data and persistence, cloud and delivery, and user experiences.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#08182d"/>
+    </linearGradient>
+    <style>
+      .card { fill: #151b23; stroke: #30363d; stroke-width: 2; }
+      .icon-ring { fill: #0d1b2a; stroke: #58a6ff; stroke-width: 2.5; }
+      .icon { fill: none; stroke: #58a6ff; stroke-width: 3.5; stroke-linecap: round; stroke-linejoin: round; }
+      .title { fill: #f0f6fc; font: 700 28px Arial, sans-serif; }
+      .description { fill: #8b949e; font: 20px Arial, sans-serif; }
+    </style>
+  </defs>
+  <rect width="1400" height="270" rx="18" fill="url(#background)" stroke="#30363d" stroke-width="2"/>
+  <g transform="translate(24 20)">
+    <g>
+      <rect class="card" width="320" height="230" rx="18"/>
+      <circle class="icon-ring" cx="53" cy="53" r="29"/><path class="icon" d="M36 53h34M53 36v34"/>
+      <text class="title" x="24" y="125">Backend Engineering</text>
+      <text class="description" x="24" y="166">Secure APIs, clean</text><text class="description" x="24" y="198">boundaries and testing.</text>
+    </g>
+    <g transform="translate(344)">
+      <rect class="card" width="320" height="230" rx="18"/>
+      <circle class="icon-ring" cx="53" cy="53" r="29"/><ellipse class="icon" cx="53" cy="44" rx="18" ry="9"/><path class="icon" d="M35 44v21c0 11 36 11 36 0V44"/>
+      <text class="title" x="24" y="125">Data &amp; Persistence</text>
+      <text class="description" x="24" y="166">Relational modeling and</text><text class="description" x="24" y="198">efficient persistence.</text>
+    </g>
+    <g transform="translate(688)">
+      <rect class="card" width="320" height="230" rx="18"/>
+      <circle class="icon-ring" cx="53" cy="53" r="29"/><path class="icon" d="M33 64c0-11 9-20 20-20 8 0 15 4 19 11 10 0 17 6 17 15H33z"/>
+      <text class="title" x="24" y="125">Cloud &amp; Delivery</text>
+      <text class="description" x="24" y="166">Containers, CI/CD and</text><text class="description" x="24" y="198">cloud deployments.</text>
+    </g>
+    <g transform="translate(1032)">
+      <rect class="card" width="320" height="230" rx="18"/>
+      <circle class="icon-ring" cx="53" cy="53" r="29"/><rect class="icon" x="34" y="38" width="38" height="29" rx="4"/><path class="icon" d="M44 76h18"/>
+      <text class="title" x="24" y="125">User Experiences</text>
+      <text class="description" x="24" y="166">Practical web and desktop</text><text class="description" x="24" y="198">interfaces backed by logic.</text>
+    </g>
+  </g>
+</svg>
