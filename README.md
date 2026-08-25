@@ -32,18 +32,6 @@
 
 </div>
 
-## GitHub Activity
-
-<div align="center">
-
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VithorRoder&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-    alt="Vithor Roder's GitHub contribution graph"
-  />
-
-</div>
-
 ## About Me
 
 I am a Brazilian Full-Stack Developer based in Rio de Janeiro, focused on building reliable, maintainable, and scalable software.
