@@ -127,8 +127,7 @@ viewBox="0 0 37041.7 7143.8"
   <ellipse class="fil3 str2" cx="11134.76" cy="1659.39" rx="476.25" ry="238.12"/>
   <path class="fil3 str2" d="M10658.5 1659.39l0 555.63c0,291.04 952.5,291.04 952.5,0l0 -555.63"/>
   <g transform="matrix(1 0 0 1 -8258.38 330.61)">
-   <text x="18520.85" y="3571.9"  class="fil4 fnt2">Data</text>
-   <text x="20126.59" y="3571.9"  class="fil4 fnt2"> &amp; Persistence</text>
+   <text x="18520.85" y="3571.9"  class="fil4 fnt2">Data &amp; Persistence</text>
   </g>
   <text x="10296.78" y="4940.26"  class="fil5 fnt3">Relational modeling and</text>
   <text x="10296.78" y="5809.16"  class="fil5 fnt3">efficient persistence.</text>
