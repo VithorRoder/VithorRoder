@@ -138,8 +138,7 @@ viewBox="0 0 37041.7 7143.8"
    <text x="18520.85" y="3571.9"  class="fil4 fnt4">Cloud &amp; Delivery</text>
   </g>
   <g transform="matrix(1 0 0 1 881.08 1359.47)">
-   <text x="18520.85" y="3571.9"  class="fil5 fnt5">Containers, CI/CD and</text>
-   <text x="24199.19" y="3571.9"  class="fil5 fnt5"> cloud</text>
+   <text x="18520.85" y="3571.9"  class="fil5 fnt5">Containers, CI/CD and cloud</text>
   </g>
   <g transform="matrix(1 0 0 1 881.08 2206.14)">
    <text x="18520.85" y="3571.9"  class="fil5 fnt5">deployments.</text>
